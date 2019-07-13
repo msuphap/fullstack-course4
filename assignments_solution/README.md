@@ -3,7 +3,7 @@ by Johns Hopkins University
 
 Click link to the class [Coursera Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome).
 
-<strong>Assignment 2:</strong> https://github.com/msuphap/coursera_web_developer/tree/master/module2-solution <br>
+<strong>Assignment 2:</strong> https://github.com/msuphap/fullstack-course4/assignments/assignment2/Assignment-2.md <br>
 <strong>Solution 2:</strong> https://msuphap.github.io/fullstack-course4/assignments_solution/module2-solution/index.html
 
 <strong>Assignment 3:</strong> https://github.com/msuphap/coursera_web_developer/tree/master/module2-solution <br>
